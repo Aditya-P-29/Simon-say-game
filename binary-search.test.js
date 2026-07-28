@@ -20,3 +20,4 @@ describe("Binary Search Algorithm", () => {
     expect(binarySearch(arr, key)).toBe(8);
   });
 });
+ 
